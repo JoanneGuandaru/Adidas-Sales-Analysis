@@ -26,6 +26,8 @@ Adidas wanted to gain a comprehensive understanding of Adidas' sales performance
  Average Price per Unit: $45
  Operating Margin: 42%
 
+![Overall Sales Performance](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/Overall%20Adidas%20Sales%20Data.PNG?raw=true)
+
 2. Total Sales by Month
  Best months: July ($95.5M), August ($92.2M), and December ($85.8M).
  Lowest months: March ($56.8M) and October ($63.9M).
