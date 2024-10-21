@@ -38,7 +38,9 @@ Adidas wanted to gain a comprehensive understanding of Adidas' sales performance
  Top retailers: West Gear ($243M), Foot Locker ($220M), and Sports Direct ($182M).
  Worst retailers: Amazon ($78M), Walmart ($75M).
 
-4. Total Sales by Product
+![Total Sales by Retailer](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/Sales%20by%20Retailer.PNG?raw=true)
+
+5. Total Sales by Product
  Bestselling products: Men’s Street Footwear ($209M), Women’s Apparel ($179M), and Men’s Athletic Footwear ($154M).
  Worstperforming product: Women’s Athletic Footwear ($107M).
 
