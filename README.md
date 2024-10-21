@@ -2,7 +2,6 @@
 
  Adidas Sales Analysis 
 
- Introduction
 Adidas is one of the world’s largest sportswear manufacturers, known for its innovative footwear, apparel, and accessories. The company maintains a global presence and operates through various channels, including physical retail, e-commerce, and third-party retailers.
 
 In this analysis, I focused on Adidas’ sales data, filtered by region and time-periods, to provide insights into overall performance and key metrics that impact business decisions. This project's goal was to better understand Adidas’ sales performance across the U.S. market, and how Adidas can optimize their sales strategies and identify potential areas for growth or improvement.
@@ -22,6 +21,7 @@ To gain a comprehensive understanding of Adidas' sales performance across differ
  Key Insights
  
 1. Overall Sales Performance
+   
  Total Sales: $900M
  Operating Profit: $332M
  Units Sold: 2M
@@ -31,18 +31,21 @@ To gain a comprehensive understanding of Adidas' sales performance across differ
 ![Overall Sales Performance](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/Overall%20Adidas%20Sales%20Data.PNG?raw=true)
 
 2. Total Sales by Month
+   
  Best months: July ($95.5M), August ($92.2M), and December ($85.8M).
  Lowest months: March ($56.8M) and October ($63.9M).
 
 ![Total Sales by Month](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/Sales%20by%20month.PNG?raw=true)
 
 3. Total Sales by Retailer
+   
  Top retailers: West Gear ($243M), Foot Locker ($220M), and Sports Direct ($182M).
  Worst retailers: Amazon ($78M), Walmart ($75M).
 
 ![Total Sales by Retailer](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/Sales%20by%20Retailer.PNG?raw=true)
 
 5. Total Sales by Product
+   
  Bestselling products: Men’s Street Footwear ($209M), Women’s Apparel ($179M), and Men’s Athletic Footwear ($154M).
  Worstperforming product: Women’s Athletic Footwear ($107M).
 
