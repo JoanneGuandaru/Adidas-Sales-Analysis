@@ -10,7 +10,8 @@ In this analysis, I focused on Adidas’ sales data, filtered by region and time
 The analysis covers multiple dimensions, including total sales, operating profit, units sold, sales by month, and product categories. Additionally, performance by retailers and geographical regions is assessed to determine the best and worst performing areas. The ultimate goal was to uncover insights on sales trends, top performing products and retailers, and to make recommendations for driving profit growth.
 
  Problem Statement
-Adidas wanted to gain a comprehensive understanding of Adidas' sales performance across different U.S. regions, with particular interest in identifying:
+ 
+To gain a comprehensive understanding of Adidas' sales performance across different U.S. regions, with particular interest in identifying:
  The regions with the highest and lowest sales.
  Which products and stores were driving performance.
  The best months for sales and those that showed a decline.
@@ -19,6 +20,7 @@ Adidas wanted to gain a comprehensive understanding of Adidas' sales performance
  Recommendations for maximizing profits and improving sales strategies.
 
  Key Insights
+ 
 1. Overall Sales Performance
  Total Sales: $900M
  Operating Profit: $332M
@@ -49,6 +51,7 @@ Adidas wanted to gain a comprehensive understanding of Adidas' sales performance
  Regional Performance Breakdown
 
 1. West Region
+   
  Total Sales: $270M
  Best Months: May ($32.6M), July ($30.9M), January ($30M).
  Worst Months: October ($9.9M), September ($11.3M).
@@ -64,6 +67,7 @@ Adidas wanted to gain a comprehensive understanding of Adidas' sales performance
 ![West Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/West%20Region%20Data.PNG?raw=true)
 
 2. North East Region
+   
  Total Sales: $186M
  Best Months: December ($23.4M), November ($20M), January ($19M).
  Worst Months: September ($9.6M), August ($12.4M).
@@ -79,6 +83,7 @@ Adidas wanted to gain a comprehensive understanding of Adidas' sales performance
 ![North East Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/North%20East%20Region%20Data.PNG?raw=true)
 
 3. South East Region
+   
  Total Sales: $163M
  Best Months: September ($21M), August ($20M).
  Worst Months: March ($6.7M), February ($7.2M).
@@ -94,6 +99,7 @@ Adidas wanted to gain a comprehensive understanding of Adidas' sales performance
 ![South East Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/South%20East%20Region%20Data.PNG?raw=true)
 
 4. South Region
+   
  Total Sales: $145M
  Best Months: September ($29M), August ($26M).
  Worst Months: February ($2.67M), January ($2.72M).
@@ -109,6 +115,7 @@ Adidas wanted to gain a comprehensive understanding of Adidas' sales performance
 ![South Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/South%20Region%20Data.PNG?raw=true)
 
 5. Midwest Region
+   
  Total Sales: $136M
  Best Months: July ($19M), December ($17M).
  Worst Months: April ($5M), September ($6.7M).
@@ -124,6 +131,7 @@ Adidas wanted to gain a comprehensive understanding of Adidas' sales performance
 ![Midwest Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/Midwest%20Region%20Data.PNG?raw=true)
 
  Key Findings
+ 
 1. Seasonality Matters: Summer and holiday seasons performed the best, with July, August, and December seeing the highest sales across all regions.
 2. Top Products Drive Sales: Men’s Street Footwear consistently outperformed other product categories across all regions.
 3. Regional Variations: The West and North East regions recorded higher sales figures compared to the South and Midwest.
@@ -131,6 +139,7 @@ Adidas wanted to gain a comprehensive understanding of Adidas' sales performance
 5. Operating Profit Margins: Despite varying sales, regions like the South showed the highest operating margin at 47%, while the West was slightly lower at 40%.
 
  Recommendations
+ 
 1. Focus on High Performing Products: Invest more in marketing and inventory for Men’s Street Footwear and Women’s Apparel, as they are consistently top sellers.
 2. Optimize Sales During Peak Months: Adidas should prepare for increased demand in summer and holiday seasons, adjusting inventory and staffing accordingly.
 3. Regional Expansion: With the West region showing the highest sales, further investment in this region, including additional stores and marketing campaigns, could drive even higher revenue.
