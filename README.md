@@ -23,9 +23,13 @@ To gain a comprehensive understanding of Adidas' sales performance across differ
 1. Overall Sales Performance
    
  Total Sales: $900M
+ 
  Operating Profit: $332M
+ 
  Units Sold: 2M
+ 
  Average Price per Unit: $45
+ 
  Operating Margin: 42%
 
 ![Overall Sales Performance](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/Overall%20Adidas%20Sales%20Data.PNG?raw=true)
@@ -33,6 +37,7 @@ To gain a comprehensive understanding of Adidas' sales performance across differ
 2. Total Sales by Month
    
  Best months: July ($95.5M), August ($92.2M), and December ($85.8M).
+ 
  Lowest months: March ($56.8M) and October ($63.9M).
 
 ![Total Sales by Month](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/Sales%20by%20month.PNG?raw=true)
@@ -40,6 +45,7 @@ To gain a comprehensive understanding of Adidas' sales performance across differ
 3. Total Sales by Retailer
    
  Top retailers: West Gear ($243M), Foot Locker ($220M), and Sports Direct ($182M).
+ 
  Worst retailers: Amazon ($78M), Walmart ($75M).
 
 ![Total Sales by Retailer](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/Sales%20by%20Retailer.PNG?raw=true)
@@ -47,6 +53,7 @@ To gain a comprehensive understanding of Adidas' sales performance across differ
 5. Total Sales by Product
    
  Bestselling products: Men’s Street Footwear ($209M), Women’s Apparel ($179M), and Men’s Athletic Footwear ($154M).
+ 
  Worstperforming product: Women’s Athletic Footwear ($107M).
 
 ![Total Sales by Product](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/Sales%20by%20product.PNG?raw=true)
@@ -56,15 +63,25 @@ To gain a comprehensive understanding of Adidas' sales performance across differ
 1. West Region
    
  Total Sales: $270M
+ 
  Best Months: May ($32.6M), July ($30.9M), January ($30M).
+ 
  Worst Months: October ($9.9M), September ($11.3M).
+ 
  Top Store: West Gear ($138M).
+ 
  Worst Store: Walmart ($7M).
+ 
  Top Product: Men’s Street Footwear ($55M).
+ 
  Worst Product: Women’s Athletic Footwear ($35M).
+ 
  Operating Profit: $90M
+ 
  Units Sold: 687K
+ 
  Average Price per Unit: $50
+ 
  Operating Margin: 40%
 
 ![West Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/West%20Region%20Data.PNG?raw=true)
@@ -72,15 +89,25 @@ To gain a comprehensive understanding of Adidas' sales performance across differ
 2. North East Region
    
  Total Sales: $186M
+ 
  Best Months: December ($23.4M), November ($20M), January ($19M).
+ 
  Worst Months: September ($9.6M), August ($12.4M).
+ 
  Top Store: Foot Locker ($65.3M).
+ 
  Worst Store: Walmart ($13.7M).
+ 
  Top Product: Men’s Street Footwear ($51M).
+ 
  Worst Product: Women’s Athletic Footwear ($19.8M).
+ 
  Operating Profit: $68M
+ 
  Units Sold: 501K
+ 
  Average Price per Unit: $47
+ 
  Operating Margin: 41%
 
 ![North East Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/North%20East%20Region%20Data.PNG?raw=true)
@@ -88,15 +115,25 @@ To gain a comprehensive understanding of Adidas' sales performance across differ
 3. South East Region
    
  Total Sales: $163M
+ 
  Best Months: September ($21M), August ($20M).
+ 
  Worst Months: March ($6.7M), February ($7.2M).
+ 
  Top Store: Foot Locker ($60M).
+ 
  Worst Store: Amazon ($10.8M).
+ 
  Top Product: Men’s Street Footwear ($36M).
+ 
  Worst Product: Women’s Athletic Footwear ($20M).
+ 
  Operating Profit: $61M
+ 
  Units Sold: 407K
+ 
  Average Price per Unit: $50
+ 
  Operating Margin: 42%
 
 ![South East Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/South%20East%20Region%20Data.PNG?raw=true)
@@ -104,15 +141,25 @@ To gain a comprehensive understanding of Adidas' sales performance across differ
 4. South Region
    
  Total Sales: $145M
+ 
  Best Months: September ($29M), August ($26M).
+ 
  Worst Months: February ($2.67M), January ($2.72M).
+ 
  Top Store: Sports Direct ($65M).
+ 
  Worst Store: Kohl’s ($3.6M).
+ 
  Top Product: Women’s Apparel ($30M).
+ 
  Worst Product: Women’s Athletic Footwear ($18M).
+ 
  Operating Profit: $61M
+ 
  Units Sold: 492K
+ 
  Average Price per Unit: $38
+ 
  Operating Margin: 47%
 
 ![South Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/South%20Region%20Data.PNG?raw=true)
@@ -120,15 +167,25 @@ To gain a comprehensive understanding of Adidas' sales performance across differ
 5. Midwest Region
    
  Total Sales: $136M
+ 
  Best Months: July ($19M), December ($17M).
+ 
  Worst Months: April ($5M), September ($6.7M).
+ 
  Top Store: Foot Locker ($48M).
+ 
  Worst Store: Amazon ($17M).
+ 
  Top Product: Men’s Street Footwear ($38M).
+ 
  Worst Product: Women’s Athletic Footwear ($14M).
+ 
  Operating Profit: $53M
+ 
  Units Sold: 391K
+ 
  Average Price per Unit: $40
+ 
  Operating Margin: 44%
 
 ![Midwest Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/Midwest%20Region%20Data.PNG?raw=true)
