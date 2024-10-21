@@ -91,6 +91,8 @@ Adidas wanted to gain a comprehensive understanding of Adidas' sales performance
  Average Price per Unit: $50
  Operating Margin: 42%
 
+![South East Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/South%20East%20Region%20Data.PNG?raw=true)
+
 5. South Region
  Total Sales: $145M
  Best Months: September ($29M), August ($26M).
