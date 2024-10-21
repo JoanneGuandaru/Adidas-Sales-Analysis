@@ -32,6 +32,8 @@ Adidas wanted to gain a comprehensive understanding of Adidas' sales performance
  Best months: July ($95.5M), August ($92.2M), and December ($85.8M).
  Lowest months: March ($56.8M) and October ($63.9M).
 
+![Total Sales by Month](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/Sales%20by%20month.PNG?raw=true)
+
 3. Total Sales by Retailer
  Top retailers: West Gear ($243M), Foot Locker ($220M), and Sports Direct ($182M).
  Worst retailers: Amazon ($78M), Walmart ($75M).
