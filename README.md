@@ -3,11 +3,11 @@
  Adidas Sales Analysis 
 
  Introduction
-Adidas is one of the world’s largest sportswear manufacturers, known for its innovative footwear, apparel, and accessories. The company maintains a global presence and operates through various channels, including physical retail, ecommerce, and thirdparty retailers.
+Adidas is one of the world’s largest sportswear manufacturers, known for its innovative footwear, apparel, and accessories. The company maintains a global presence and operates through various channels, including physical retail, e-commerce, and third-party retailers.
 
-In this analysis, I focused on Adidas’ sales data, filtered by region and time periods, to provide insights into overall performance and key metrics that impact business decisions. This project's goal was to better understand Adidas’ sales performance across the U.S. market, and how Adidas can optimize their sales strategies and identify potential areas for growth or improvement.
+In this analysis, I focused on Adidas’ sales data, filtered by region and time-periods, to provide insights into overall performance and key metrics that impact business decisions. This project's goal was to better understand Adidas’ sales performance across the U.S. market, and how Adidas can optimize their sales strategies and identify potential areas for growth or improvement.
 
-The analysis covers multiple dimensions, including total sales, operating profit, units sold, sales by month, and product categories. Additionally, performance by retailers and geographical regions is assessed to determine the best and worstperforming areas. The ultimate goal was to uncover insights on sales trends, topperforming products and retailers, and to make recommendations for driving profit growth.
+The analysis covers multiple dimensions, including total sales, operating profit, units sold, sales by month, and product categories. Additionally, performance by retailers and geographical regions is assessed to determine the best and worst performing areas. The ultimate goal was to uncover insights on sales trends, top performing products and retailers, and to make recommendations for driving profit growth.
 
  Problem Statement
 Adidas wanted to gain a comprehensive understanding of Adidas' sales performance across different U.S. regions, with particular interest in identifying:
@@ -15,7 +15,7 @@ Adidas wanted to gain a comprehensive understanding of Adidas' sales performance
  Which products and stores were driving performance.
  The best months for sales and those that showed a decline.
  Sales trends across different periods.
- The best and worstperforming stores and products in each region.
+ The best and worst performing stores and products in each region.
  Recommendations for maximizing profits and improving sales strategies.
 
  Key Insights
@@ -121,15 +121,17 @@ Adidas wanted to gain a comprehensive understanding of Adidas' sales performance
  Average Price per Unit: $40
  Operating Margin: 44%
 
+![Midwest Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/Midwest%20Region%20Data.PNG?raw=true)
+
  Key Findings
 1. Seasonality Matters: Summer and holiday seasons performed the best, with July, August, and December seeing the highest sales across all regions.
 2. Top Products Drive Sales: Men’s Street Footwear consistently outperformed other product categories across all regions.
 3. Regional Variations: The West and North East regions recorded higher sales figures compared to the South and Midwest.
-4. Retail Performance: West Gear and Foot Locker were the bestperforming stores across multiple regions, whereas Walmart and Amazon showed weaker performance in several areas.
+4. Retail Performance: West Gear and Foot Locker were the best performing stores across multiple regions, whereas Walmart and Amazon showed weaker performance in several areas.
 5. Operating Profit Margins: Despite varying sales, regions like the South showed the highest operating margin at 47%, while the West was slightly lower at 40%.
 
  Recommendations
-1. Focus on HighPerforming Products: Invest more in marketing and inventory for Men’s Street Footwear and Women’s Apparel, as they are consistently top sellers.
+1. Focus on High Performing Products: Invest more in marketing and inventory for Men’s Street Footwear and Women’s Apparel, as they are consistently top sellers.
 2. Optimize Sales During Peak Months: Adidas should prepare for increased demand in summer and holiday seasons, adjusting inventory and staffing accordingly.
 3. Regional Expansion: With the West region showing the highest sales, further investment in this region, including additional stores and marketing campaigns, could drive even higher revenue.
 4. Address Underperforming Retailers: The performance of Walmart and Amazon suggests the need for a reevaluation of partnerships or improved instore/online product placement.
