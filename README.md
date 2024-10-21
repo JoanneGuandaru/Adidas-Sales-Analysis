@@ -44,6 +44,8 @@ Adidas wanted to gain a comprehensive understanding of Adidas' sales performance
  Bestselling products: Men’s Street Footwear ($209M), Women’s Apparel ($179M), and Men’s Athletic Footwear ($154M).
  Worstperforming product: Women’s Athletic Footwear ($107M).
 
+![Total Sales by Product](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/Sales%20by%20product.PNG?raw=true)
+
  Regional Performance Breakdown
 
 1. West Region
