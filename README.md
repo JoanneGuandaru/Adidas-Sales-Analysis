@@ -78,7 +78,7 @@ Adidas wanted to gain a comprehensive understanding of Adidas' sales performance
 
 ![North East Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/North%20East%20Region%20Data.PNG?raw=true)
 
-4. South East Region
+3. South East Region
  Total Sales: $163M
  Best Months: September ($21M), August ($20M).
  Worst Months: March ($6.7M), February ($7.2M).
@@ -93,7 +93,7 @@ Adidas wanted to gain a comprehensive understanding of Adidas' sales performance
 
 ![South East Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/South%20East%20Region%20Data.PNG?raw=true)
 
-5. South Region
+4. South Region
  Total Sales: $145M
  Best Months: September ($29M), August ($26M).
  Worst Months: February ($2.67M), January ($2.72M).
@@ -106,7 +106,9 @@ Adidas wanted to gain a comprehensive understanding of Adidas' sales performance
  Average Price per Unit: $38
  Operating Margin: 47%
 
-6. Midwest Region
+![South Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/South%20Region%20Data.PNG?raw=true)
+
+5. Midwest Region
  Total Sales: $136M
  Best Months: July ($19M), December ($17M).
  Worst Months: April ($5M), September ($6.7M).
