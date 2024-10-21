@@ -86,6 +86,7 @@ To gain a comprehensive understanding of Adidas' sales performance across differ
 
 ![West Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/West%20Region%20Data.PNG?raw=true)
 
+
 2. North East Region
    
  Total Sales: $186M
@@ -111,6 +112,7 @@ To gain a comprehensive understanding of Adidas' sales performance across differ
  Operating Margin: 41%
 
 ![North East Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/North%20East%20Region%20Data.PNG?raw=true)
+
 
 3. South East Region
    
@@ -138,6 +140,7 @@ To gain a comprehensive understanding of Adidas' sales performance across differ
 
 ![South East Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/South%20East%20Region%20Data.PNG?raw=true)
 
+
 4. South Region
    
  Total Sales: $145M
@@ -164,6 +167,7 @@ To gain a comprehensive understanding of Adidas' sales performance across differ
 
 ![South Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/South%20Region%20Data.PNG?raw=true)
 
+
 5. Midwest Region
    
  Total Sales: $136M
@@ -189,6 +193,7 @@ To gain a comprehensive understanding of Adidas' sales performance across differ
  Operating Margin: 44%
 
 ![Midwest Region](https://github.com/JoanneGuandaru/Adidas-Sales-Analysis/blob/main/Midwest%20Region%20Data.PNG?raw=true)
+
 
  Key Findings
  
